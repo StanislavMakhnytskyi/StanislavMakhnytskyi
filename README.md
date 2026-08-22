@@ -23,7 +23,7 @@ I like turning messy legacy code into something a team actually enjoys maintaini
 - 🧠 Deep experience with **micro frontend architecture**, splitting large apps into independent, deployable pieces
 - 🤖 Early adopter of **AI-assisted engineering**, using GitHub Copilot to speed up delivery without cutting corners on quality
 - 💳 3 years in fintech: payments and financial crime detection
-- 👥 2+ years leading small engineering teams (3-4 developers), owning architecture decisions and mentoring
+- 👥 2+ years leading engineering teams, owning architecture decisions and mentoring
 
 ---
 
@@ -84,12 +84,6 @@ I like turning messy legacy code into something a team actually enjoys maintaini
   <a href="https://www.hackerrank.com/certificates/eda6cb681331">
     <img src="https://img.shields.io/badge/HackerRank-Frontend%20Developer%20(React)%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Frontend Developer React Certificate" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StanislavMakhnytskyi&theme=default" alt="GitHub streak" />
 </p>
 
 ---
