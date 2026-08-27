@@ -78,7 +78,7 @@ I like turning messy legacy code into something a team actually enjoys maintaini
 | 2019 – 2021 | **Simplikube** | EPAM Systems | Browser-based GUI for Kubernetes — led Frontend team, in-browser terminal over WebSockets |
 | 2017 – 2019 | **InfiniteCompute** | EPAM Systems | SaaS cloud rendering for CAD/CAM — led Frontend team, CI/CD and payments integration |
 | 2017 | **CertaScale** | EPAM Systems | AngularJS 1.6 → React migration of a large legacy codebase, standalone Storybook UI library |
-| 2015 – 2017 | **Tallink** |  | Reusable SSO plugin architecture, touch-optimized self-service kiosk UI |
+| 2015 – 2017 | **Tallink** | **Tallink** | Reusable SSO plugin architecture, touch-optimized self-service kiosk UI |
 
 ---
 
@@ -88,9 +88,9 @@ Where I try things that don't fit into client work.
 
 <!-- Replace <user> with your GitHub handle, or drop the links until the repos are public. -->
 
-- **[chat-llm-mfe](https://github.com/<user>/chat-llm-mfe)** — three-app micro frontend monorepo on Rspack + `@module-federation/enhanced`, with a shared Zustand store across remotes
-- **[kyc-wizard](https://github.com/<user>/kyc-wizard)** — multi-step KYC compliance flow with Zod + React Hook Form validation and Tailwind
-- **Next.js classifieds site** — App Router, RSC, i18n with Cyrillic support, built for a local market in Antalya
+- **[chat-llm-mfe](https://github.com/StanislavMakhnytskyi/chat-llm-mfe)** — Three-app micro frontend monorepo Demo. Build on Rspack + `@module-federation/enhanced`, with a shared Zustand store across remotes
+- **[crypwave](https://github.com/StanislavMakhnytskyi/crypwave)** — Landing page for Crypto Currency trading platform.
+- **[Family History](https://github.com/StanislavMakhnytskyi/family)** — A private family archive: a family tree, per-person pages with biography, burial place, and photo gallery. Access is protected by a two-step gate (no registration): a shared question, then the birth years of three family members.
 
 ---
 
