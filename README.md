@@ -9,8 +9,6 @@
   </a>
 </p>
 
-<p align="center">Open both to remote contracts and relocation across EU</p>
-
 ---
 
 ### About me
