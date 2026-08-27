@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Stanislav</h1>
-<h3 align="center">Senior Frontend Engineer · React &amp; TypeScript · Micro Frontends · 11 years shipping for global enterprises</h3>
+<h2 align="center">Senior Frontend Engineer · React &amp; TypeScript · Micro Frontends · 11 years shipping for global enterprises</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/stanislav-makhnytskyi">
