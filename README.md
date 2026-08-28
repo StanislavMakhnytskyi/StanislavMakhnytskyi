@@ -1,13 +1,7 @@
 <h2 align="center">Senior Frontend Engineer · React &amp; TypeScript · Micro Frontends · 11 years shipping for global enterprises</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/stanislav-makhnytskyi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:makhnitskiy.stanislav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/stanislav-makhnytskyi"><img alt="LinkedIn" height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:makhnitskiy.stanislav@gmail.com?subject=Contract%20enquiry"><img alt="Email" height="28" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;</p>
 
 ---
 
